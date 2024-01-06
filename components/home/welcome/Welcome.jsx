@@ -22,7 +22,7 @@ const Welcome = () => {
         <Text style={styles.welcomeMessage}>Find your perfect job</Text>
         <View style={styles.searchContainer}>
           <View style={styles.searchWrapper}>
-            <TextInput />
+            <TextInput style={styles.searchInput} />
           </View>
         </View>
       </View>
