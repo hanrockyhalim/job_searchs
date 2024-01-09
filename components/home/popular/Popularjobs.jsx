@@ -19,7 +19,7 @@ const Popularjobs = () => {
 
   return (
     <View style={styles.container}>
-      {/* <View style={styles.header}>
+      <View style={styles.header}>
         <Text style={styles.headerTitle}>Popular Job</Text>
         <TouchableOpacity>
           <Text style={styles.headerBtn}>Show All</Text>
@@ -38,8 +38,8 @@ const Popularjobs = () => {
             contentContainerStyle={{ columnGap: SIZES.medium}}
             horizontal
           />
-        )}
-      </View> */}
+        )}n
+      </View>
     </View>
   );
 };

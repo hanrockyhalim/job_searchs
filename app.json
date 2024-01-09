@@ -4,9 +4,7 @@
     "web": {
       "bundler": "metro"
     },
-    "plugins": [
-      "expo-router"
-    ],
+    "plugins": [],
     "name": "react_native_jobs",
     "slug": "react_native_jobs"
   }
